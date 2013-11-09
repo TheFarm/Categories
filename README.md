@@ -1,4 +1,4 @@
 Categories
 ==========
 
-Buttloads of Categories for Objective-C/Cocoa
+Collection of Categories for Objective-C/Cocoa
